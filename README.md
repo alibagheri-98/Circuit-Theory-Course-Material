@@ -1,4 +1,4 @@
-# Theory-of-Circuits-Course-Material
+# Electrical-Circuits-Theory-Course-Material
 
 I held the position of Head Teaching Assistant for the Electrical Circuit Theory course instructed by Dr. Bayat at Sharif University of Technology during the Fall of 2022. In this repository, I have compiled all the course materials related to this class.
 - The materials for the theoretical assignments can be found in the "Theoretical Assignments" folder.
