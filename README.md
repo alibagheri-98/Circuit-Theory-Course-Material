@@ -4,4 +4,5 @@ I held the position of Head Teaching Assistant for the Electrical Circuit Theory
 - The materials for the theoretical assignments can be found in the "Theoretical Assignments" folder.
 - The materials for the practical assignments can be found in the "Practical Assignments" folder.
 - The materials for the final project can be found in the "Final Project" folder.
+
 The objective of the practical assignments is to instruct students in the utilization of the PSpice software.
